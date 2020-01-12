@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PG5_DP_Composite", "PG5_DP_Composite\PG5_DP_Composite.csproj", "{D29702C4-685A-43C9-883B-0CBAABCFE4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{007FB477-4516-43D2-9B16-1143D94C573A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29702C4-685A-43C9-883B-0CBAABCFE4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29702C4-685A-43C9-883B-0CBAABCFE4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29702C4-685A-43C9-883B-0CBAABCFE4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29702C4-685A-43C9-883B-0CBAABCFE4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007FB477-4516-43D2-9B16-1143D94C573A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007FB477-4516-43D2-9B16-1143D94C573A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007FB477-4516-43D2-9B16-1143D94C573A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007FB477-4516-43D2-9B16-1143D94C573A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D147A7-DE28-458D-B186-680352791C1F}
+	EndGlobalSection
+EndGlobal

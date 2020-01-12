@@ -1,0 +1,7 @@
+﻿{
+    "Username": "admin",
+    "Password": "passwd",
+    "MailServer": "smtp.live.com",
+    "MailPort": 587,
+    "EnableSSL": true
+}

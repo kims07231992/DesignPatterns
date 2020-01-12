@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PG5_DP_Facade", "PG5_DP_Facade\PG5_DP_Facade.csproj", "{610CF298-FF77-4191-8F11-1429F14D68B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingLibrary", "BookingLibrary\BookingLibrary.csproj", "{441BF58B-F3CD-4A1F-BC63-9AC85B490C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610CF298-FF77-4191-8F11-1429F14D68B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610CF298-FF77-4191-8F11-1429F14D68B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610CF298-FF77-4191-8F11-1429F14D68B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610CF298-FF77-4191-8F11-1429F14D68B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441BF58B-F3CD-4A1F-BC63-9AC85B490C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441BF58B-F3CD-4A1F-BC63-9AC85B490C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441BF58B-F3CD-4A1F-BC63-9AC85B490C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441BF58B-F3CD-4A1F-BC63-9AC85B490C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A0DC58-2C85-4E85-BA91-820A001A61B3}
+	EndGlobalSection
+EndGlobal
